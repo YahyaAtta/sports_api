@@ -20,7 +20,7 @@ class Home extends StatelessWidget {
               onPressed: () {
                 Get.to(() => const About());
               },
-              icon: const Icon(Icons.info_rounded)),
+              icon: const Icon(Icons.info_rounded, size: 30)),
         ],
         title: const Row(
           children: [

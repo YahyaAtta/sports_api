@@ -84,7 +84,7 @@ class _AboutState extends State<About> with SingleTickerProviderStateMixin {
                 const Text('FOOTBALL Version 1.0',
                     style: TextStyle(fontSize: 20)),
                 const Text(
-                  "Developed By Yahya Atta\nFourth Year\nComputer Science(CS)\nGithub:YahyaAtta",
+                  "Developed By Yahya Atta\nFifth Year\nComputer Science(CS)\nGithub:YahyaAtta",
                   style: TextStyle(fontSize: 20),
                   textAlign: TextAlign.center,
                 ),

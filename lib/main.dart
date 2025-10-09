@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GetMaterialApp(
-      title: 'Sports',
+      title: 'FOOTBALL',
       defaultTransition: Transition.rightToLeftWithFade,
       initialBinding: MyBindings(),
       debugShowCheckedModeBanner: false,
